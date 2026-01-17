@@ -24,3 +24,15 @@ O laboratório foi construído em ambiente totalmente virtualizado utilizando Pr
   - Wazuh Indexer  
   - Wazuh Dashboard  
   - Grafana
+
+## ✅ Funcionalidades Implementadas
+
+- [x] Ambiente virtualizado no Proxmox
+- [x] Firewall e segmentação de rede com pfSense
+- [x] Active Directory com Windows Server 2022
+- [x] Auditoria de eventos de segurança no AD
+- [x] Coleta de eventos do Windows pelo Wazuh Agent
+- [x] Detecção de falhas de autenticação (Event ID 4625)
+- [x] Visualização de alertas no Wazuh Dashboard
+- [x] Integração inicial do Wazuh com Grafana
+- [x] Criação de dashboards básicos para monitoramento
